@@ -9,13 +9,7 @@ I am a first-year undergraduate student at IIT Kharagpur, passionate about the i
 Beyond academics, I am actively involved in campus life. I serve on the core team of KDAG (Kharagpur Data Analytics Group), where I focus on data science initiatives, and I contribute my creative skills to the videography team for SWG (Students' Welfare Group).
 
 I am constantly learning, whether it is mastering low-level memory allocation in C, analyzing circuits, or modeling financial valuations. 
-
-**Connect with me:**
-<p align="left">
-  <a href="#" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>  
-  <a href="mailto:your.email@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>  
-  <a href="#" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
-                                                        
+                                                    
 <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
