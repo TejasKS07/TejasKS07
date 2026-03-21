@@ -21,10 +21,9 @@ I am constantly learning, whether it is mastering low-level memory allocation in
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>  
   <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" height="45"/></a>  
   <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="45" height="45"/></a>  
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45" height="45"/></a>  
-  <a href="https://keras.io/"><img src="https://skillicons.dev/icons?i=keras" width="45" height="45"/></a>  
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45" height="45"/></a> 
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/></a>  
-  <a href="https://pr.dev/"><img src="https://skillicons.dev/icons?i=pr" width="45" height="45"/></a>  
 </p>
 
 * **Machine Learning:** Linear/Logistic Regression, Decision Trees, Ensemble Algorithms, XGBoost, CatBoost, Neural Networks.
