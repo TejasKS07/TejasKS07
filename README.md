@@ -10,11 +10,6 @@ Beyond academics, I am actively involved in campus life. I serve on the core tea
 
 I am constantly learning, whether it is mastering low-level memory allocation in C, analyzing circuits, or modeling financial valuations. 
                                                     
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
-</td>
-
 <td width="29.25%" align="center" valign="middle">
   <img src="https://i.pinimg.com/736x/e6/a6/cc/e6a6ccf08c38edd428e13fe317f978af.jpg" width="100%"/>
 </td>
