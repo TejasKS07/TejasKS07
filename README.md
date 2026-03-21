@@ -8,6 +8,7 @@ I am a first-year undergraduate student at IIT Kharagpur, passionate about the i
 
 Beyond academics, I am actively involved in campus life. I serve on the core team of KDAG (Kharagpur Data Analytics Group), where I focus on data science initiatives, and I contribute my creative skills to the videography team for SWG (Students' Welfare Group).
 
+
 I am constantly learning, whether it is mastering low-level memory allocation in C, analyzing circuits, or modeling financial valuations. 
                                                     
 <td width="29.25%" align="center" valign="middle">
