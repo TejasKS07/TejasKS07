@@ -2,7 +2,7 @@
 
 # Hey there, I'm Tejas 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Applied+ML+%26+Data+Science+%F0%9F%93%8A;Quant+Finance+Enthusiast+%F0%9F%93%88;IIT+Kharagpur+%F0%9F%8E%93;Building+Multimodal+ML+Systems+%F0%9F%A7%A0;KDAG+%7C+Quant+Club+%F0%9F%8C%8D)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Applied+ML+%F0%9F%93%8A;IIT+Kharagpur+%F0%9F%8E%93;Building+Multimodal+ML+Systems+%F0%9F%A7%A0)]()
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TejasKS07.TejasKS07)](https://github.com/TejasKS07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaskumars/)
@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Tejas
+name: Tejas Kumar S
 location: IIT Kharagpur, West Bengal, India
 education: B.S. Hons, Economics (2025-2029)
 
