@@ -1,32 +1,84 @@
-<table>
-<tr>
-<td width="65%" valign="top">
- 
-# Hello, I'm Tejas KS
+<div align="center">
 
-I am a first-year undergraduate student at IIT Kharagpur, passionate about the intersection of economics, quantitative finance, and machine learning. I enjoy diving into complex data, building predictive models, and exploring algorithmic strategies.<br><br>
+# Hey there, I'm Tejas 👋
 
-Beyond academics, I am actively involved in campus life. I serve on the core team of KDAG (Kharagpur Data Analytics Group), where I focus on data science initiatives, and I contribute my creative skills to the videography team for SWG (Students' Welfare Group).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Applied+ML+%26+Data+Science+%F0%9F%93%8A;Quant+Finance+Enthusiast+%F0%9F%93%88;IIT+Kharagpur+%F0%9F%8E%93;Building+Multimodal+ML+Systems+%F0%9F%A7%A0;KDAG+%7C+Quant+Club+%F0%9F%8C%8D)]()
 
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TejasKS07.TejasKS07)](https://github.com/TejasKS07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaskumars/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TejasKS07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejaskumars2007@gmail.com)
 
-I am constantly learning, whether it is mastering low-level memory allocation in C, analyzing circuits, or modeling financial valuations. 
-                                                    
-<td width="29.25%" align="center" valign="middle">
-  <img src="https://i.pinimg.com/736x/e6/a6/cc/e6a6ccf08c38edd428e13fe317f978af.jpg" width="100%"/>
-</td>
-</tr>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Tejas
+location: IIT Kharagpur, West Bengal, India
+education: B.S. Hons, Economics (2025-2029)
+
+affiliations:
+  - KDAG (Kharagpur Data Analytics Group)
+  - Career Council, Student Welfare Group (TSG)
+
+current_focus:
+  - AI/LLM Integrations & RAG Pipelines
+
+  - AI/LLM Integrations & RAG Pipelines
+  - NLP and Information Retrieval
+  - Computer Vision: Multimodal Document VQA & Grounding
+
+looking_to_collaborate_on:
+  - ML/Data projects and hackathons
+  - NLP/CV research projects
+  - Open source ML tooling
+
+ask_me_about:
+  - Python / PyTorch / TensorFlow
+  - XGBoost / LightGBM / CatBoost
+
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **GazeLNN** | Foveated video compression research |
+| **Saral-Sandhi** | AI legal contract decoder with blockchain hash anchoring, 1st place at Tech Triad Hackathon |
+| **Reliance Directional Model** | Optuna-tuned Random Forest for equity returns, Sharpe ratio 1.12 |
+| **Farmer's Forecast** | Income predictor, XGBoost/LightGBM/CatBoost ensemble, MAPE improved 19.5% to 18.54% |
+| **Flipkart GridLock 2.0** | Stage 1: 91% accuracy using CatBoost with ordered target encoding on spatial geohash data |
+
+---
+
+## 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br>PyTorch</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br>TensorFlow</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br>FastAPI</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/><br>Jupyter</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br>Linux</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/><br>scikit-learn</td>
+  </tr>
 </table>
 
-# Tech Stack & Interests
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/></a>  
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" height="45"/></a>  
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="45" height="45"/></a>  
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45" height="45"/></a> 
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/></a>  
-</p>
+---
 
-* **Machine Learning:** Linear/Logistic Regression, Decision Trees, Ensemble Algorithms, XGBoost, CatBoost, Neural Networks.
-* **Quantitative Finance:** Alpha Research, Portfolio Management, Optimization, Financial Modeling (FMVA concepts).
-* **Mathematics & Physics:** Probability, Markov Chains, Oscillations, Waves.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasKS07&theme=tokyonight&hide_border=true" height="165"/>
+
+**Currently exploring the intersection of ML and finance, one alpha at a time 📈**
+
+</div>
