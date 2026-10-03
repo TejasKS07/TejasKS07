@@ -17,28 +17,26 @@
 
 ```yaml
 name: Tejas Kumar S
-location: IIT Kharagpur, West Bengal, India
+location: IIT Kharagpur, India
 education: B.S. Hons, Economics (2025-2029)
 
 affiliations:
   - KDAG (Kharagpur Data Analytics Group)
-  - Career Council, Student Welfare Group (TSG)
+  - Career Council, SWG (Student Welfare Group)
 
 current_focus:
   - AI/LLM Integrations & RAG Pipelines
-
-  - AI/LLM Integrations & RAG Pipelines
   - NLP and Information Retrieval
-  - Computer Vision: Multimodal Document VQA & Grounding
+  - Computer Vision
 
 looking_to_collaborate_on:
   - ML/Data projects and hackathons
   - NLP/CV research projects
-  - Open source ML tooling
+  - ML tooling
 
 ask_me_about:
   - Python / PyTorch / TensorFlow
-  - XGBoost / LightGBM / CatBoost
+  - Machine Learning and Deep Learning
 
 ```
 
@@ -50,8 +48,8 @@ ask_me_about:
 |---|---|
 | **GazeLNN** | Foveated video compression research |
 | **Saral-Sandhi** | AI legal contract decoder with blockchain hash anchoring, 1st place at Tech Triad Hackathon |
-| **Reliance Directional Model** | Optuna-tuned Random Forest for equity returns, Sharpe ratio 1.12 |
-| **Farmer's Forecast** | Income predictor, XGBoost/LightGBM/CatBoost ensemble, MAPE improved 19.5% to 18.54% |
+| **Reliance Directional Model** | Optuna-tuned Random Forest for equity returns |
+| **Farmer's Forecast** | Income predictor, XGBoost/LightGBM/CatBoost ensemble |
 | **Flipkart GridLock 2.0** | Stage 1: 91% accuracy using CatBoost with ordered target encoding on spatial geohash data |
 
 ---
@@ -78,7 +76,5 @@ ask_me_about:
 ---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasKS07&theme=tokyonight&hide_border=true" height="165"/>
-
-**Currently exploring the intersection of ML and finance, one alpha at a time 📈**
 
 </div>
